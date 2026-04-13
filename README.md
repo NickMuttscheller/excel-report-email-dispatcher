@@ -39,6 +39,7 @@ The solution includes structured logging, validation controls, dry-run protectio
 
 ## Project Structure
 
+```
 scripts/
 ├── excel_report_email_dispatcher/
 │   ├── input/
@@ -54,6 +55,7 @@ scripts/
 │   │   └── report_dispatch_YYYYMMDD_HHMMSS.log
 │   ├── README.md
 │   └── report_email_dispatcher.py
+```
 
 ---
 
