@@ -1,0 +1,21 @@
+﻿recipient_name,email_to,report_file,company,email_cc,email_bcc,subject,message,is_active
+Alice Thompson,alice.thompson@northsales.com,north_region_sales.xlsx,North Sales Division,,,Monthly Sales Report - North,"Hi Alice, please find your North region sales report attached.",yes
+Brian Keller,brian.keller@northsales.com,north_region_sales.xlsx,North Sales Division,manager@northsales.com,,,,yes
+Clara Mendes,clara.mendes@financecorp.com,finance_summary.xlsx,Finance Department,,,Quarterly Finance Summary,Please review the attached finance summary.,yes
+David Zhang,david.zhang@financecorp.com,finance_summary.xlsx,Finance Department,,,,,yes
+Emma Rossi,emma.rossi@operations.com,operations_report.xlsx,Operations Team,,,Operations Weekly Report,Attached is your weekly operations report.,yes
+Felix Braun,felix.braun@operations.com,operations_report.xlsx,Operations Team,lead@operations.com,,,,yes
+George Smith,george.smith@southsales.com,south_region_sales.xlsx,South Sales Division,,,South Region Sales Report,"Hi George, your regional report is attached.",yes
+Hannah Lee,hannah.lee@southsales.com,south_region_sales.xlsx,South Sales Division,,,,,yes
+Ivan Petrov,ivan.petrov@europebranch.com,europe_sales.xlsx,Europe Branch,,,Europe Sales Overview,Please find the Europe sales overview attached.,yes
+Julia Novak,julia.novak@europebranch.com,europe_sales.xlsx,Europe Branch,,,,,yes
+Kevin O'Brien,kevin.obrien@clientsolutions.com,client_performance.xlsx,Client Solutions,,,Client Performance Report,Here is your client performance report.,yes
+Laura Chen,laura.chen@clientsolutions.com,client_performance.xlsx,Client Solutions,,,,,yes
+Michael Green,michael.green@logistics.com,logistics_report.xlsx,Logistics Department,,,Logistics Update,Please review the latest logistics report.,yes
+Nina Weber,nina.weber@logistics.com,logistics_report.xlsx,Logistics Department,,,,,yes
+Oscar Diaz,oscar.diaz@hrdept.com,hr_summary.xlsx,HR Department,,,HR Summary Report,Attached is the HR summary.,yes
+Paula Schmidt,paula.schmidt@hrdept.com,hr_summary.xlsx,HR Department,,,,,yes
+Quentin Blake,quentin.blake@marketing.com,marketing_report.xlsx,Marketing Department,,,Marketing Performance,Please review the marketing performance report.,yes
+Rachel Adams,rachel.adams@marketing.com,marketing_report.xlsx,Marketing Department,,,,,yes
+Samir Khan,samir.khan@asiaregion.com,asia_sales.xlsx,Asia Region,,,Asia Sales Report,Here is your Asia sales report.,yes
+Tina Müller,tina.mueller@asiaregion.com,asia_sales.xlsx,Asia Region,,,,,yes

@@ -1,0 +1,31 @@
+2026-04-13 12:55:46,508 | INFO | run_pipeline | Starting Automated Excel Report Email Dispatcher
+2026-04-13 12:55:46,508 | INFO | run_pipeline | Base directory: C:\Users\Steves Seconds\Documents\Get_Rich\Excel_60_days\scripts\excel_report_email_dispatcher
+2026-04-13 12:55:46,508 | INFO | find_recipient_file | Recipient file found: recipient_distribution.csv
+2026-04-13 12:55:46,509 | INFO | load_table | Loading CSV input: recipient_distribution.csv
+2026-04-13 12:55:46,523 | INFO | validate_recipient_data | Valid rows: 20
+2026-04-13 12:55:46,523 | INFO | validate_recipient_data | Invalid rows: 0
+2026-04-13 12:55:46,524 | INFO | list_report_files | Discovered 10 report file(s) in C:\Users\Steves Seconds\Documents\Get_Rich\Excel_60_days\scripts\excel_report_email_dispatcher\input\reports
+2026-04-13 12:55:46,526 | INFO | dispatch_emails | Dispatch mode: DRY RUN
+2026-04-13 12:55:46,566 | INFO | dispatch_emails | DRY RUN email prepared for Alice Thompson -> alice.thompson@northsales.com | attachment=north_region_sales.xlsx
+2026-04-13 12:55:46,569 | INFO | dispatch_emails | DRY RUN email prepared for Brian Keller -> brian.keller@northsales.com | attachment=north_region_sales.xlsx
+2026-04-13 12:55:46,571 | INFO | dispatch_emails | DRY RUN email prepared for Clara Mendes -> clara.mendes@financecorp.com | attachment=finance_summary.xlsx
+2026-04-13 12:55:46,575 | INFO | dispatch_emails | DRY RUN email prepared for David Zhang -> david.zhang@financecorp.com | attachment=finance_summary.xlsx
+2026-04-13 12:55:46,578 | INFO | dispatch_emails | DRY RUN email prepared for Emma Rossi -> emma.rossi@operations.com | attachment=operations_report.xlsx
+2026-04-13 12:55:46,580 | INFO | dispatch_emails | DRY RUN email prepared for Felix Braun -> felix.braun@operations.com | attachment=operations_report.xlsx
+2026-04-13 12:55:46,585 | INFO | dispatch_emails | DRY RUN email prepared for George Smith -> george.smith@southsales.com | attachment=south_region_sales.xlsx
+2026-04-13 12:55:46,587 | INFO | dispatch_emails | DRY RUN email prepared for Hannah Lee -> hannah.lee@southsales.com | attachment=south_region_sales.xlsx
+2026-04-13 12:55:46,590 | INFO | dispatch_emails | DRY RUN email prepared for Ivan Petrov -> ivan.petrov@europebranch.com | attachment=europe_sales.xlsx
+2026-04-13 12:55:46,592 | INFO | dispatch_emails | DRY RUN email prepared for Julia Novak -> julia.novak@europebranch.com | attachment=europe_sales.xlsx
+2026-04-13 12:55:46,594 | INFO | dispatch_emails | DRY RUN email prepared for Kevin O'Brien -> kevin.obrien@clientsolutions.com | attachment=client_performance.xlsx
+2026-04-13 12:55:46,595 | INFO | dispatch_emails | DRY RUN email prepared for Laura Chen -> laura.chen@clientsolutions.com | attachment=client_performance.xlsx
+2026-04-13 12:55:46,597 | INFO | dispatch_emails | DRY RUN email prepared for Michael Green -> michael.green@logistics.com | attachment=logistics_report.xlsx
+2026-04-13 12:55:46,599 | INFO | dispatch_emails | DRY RUN email prepared for Nina Weber -> nina.weber@logistics.com | attachment=logistics_report.xlsx
+2026-04-13 12:55:46,603 | INFO | dispatch_emails | DRY RUN email prepared for Oscar Diaz -> oscar.diaz@hrdept.com | attachment=hr_summary.xlsx
+2026-04-13 12:55:46,605 | INFO | dispatch_emails | DRY RUN email prepared for Paula Schmidt -> paula.schmidt@hrdept.com | attachment=hr_summary.xlsx
+2026-04-13 12:55:46,605 | WARNING | dispatch_emails | Skipping Quentin Blake because the report could not be matched
+2026-04-13 12:55:46,606 | WARNING | dispatch_emails | Skipping Rachel Adams because the report could not be matched
+2026-04-13 12:55:46,608 | INFO | dispatch_emails | DRY RUN email prepared for Samir Khan -> samir.khan@asiaregion.com | attachment=asia_sales.xlsx
+2026-04-13 12:55:46,609 | INFO | dispatch_emails | DRY RUN email prepared for Tina Müller -> tina.mueller@asiaregion.com | attachment=asia_sales.xlsx
+2026-04-13 12:55:46,687 | INFO | write_dispatch_outputs | Dispatch register written to: C:\Users\Steves Seconds\Documents\Get_Rich\Excel_60_days\scripts\excel_report_email_dispatcher\output\dispatch_register_20260413_125546.xlsx
+2026-04-13 12:55:46,688 | INFO | write_dispatch_outputs | Summary report written to: C:\Users\Steves Seconds\Documents\Get_Rich\Excel_60_days\scripts\excel_report_email_dispatcher\output\dispatch_summary_20260413_125546.txt
+2026-04-13 12:55:46,688 | INFO | run_pipeline | Workflow completed successfully

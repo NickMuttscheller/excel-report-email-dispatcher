@@ -1,0 +1,28 @@
+AUTOMATED EXCEL REPORT EMAIL DISPATCH SUMMARY
+=======================================================
+Run timestamp: 2026-04-13 12:55:46
+Base directory: C:\Users\Steves Seconds\Documents\Get_Rich\Excel_60_days\scripts\excel_report_email_dispatcher
+Input directory: C:\Users\Steves Seconds\Documents\Get_Rich\Excel_60_days\scripts\excel_report_email_dispatcher\input
+Reports directory: C:\Users\Steves Seconds\Documents\Get_Rich\Excel_60_days\scripts\excel_report_email_dispatcher\input\reports
+Output file: dispatch_register_20260413_125546.xlsx
+Log file: report_dispatch_20260413_125546.log
+Dispatch mode: DRY RUN
+
+COUNTS
+-------------------------------------------------------
+Total valid recipients: 20
+Total invalid recipients: 0
+Matched reports: 18
+Emails sent: 0
+Dry run successes: 18
+Failures: 2
+
+NOTES
+-------------------------------------------------------
+Real email sending requires these environment variables:
+- REPORT_SMTP_HOST
+- REPORT_SMTP_PORT
+- REPORT_SMTP_USER
+- REPORT_SMTP_PASSWORD
+- REPORT_SMTP_SENDER
+- REPORT_ENABLE_SEND=1
